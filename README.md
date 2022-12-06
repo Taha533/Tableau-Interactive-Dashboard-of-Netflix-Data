@@ -1,4 +1,4 @@
 # Tableau-Interactive-Dashboard-of-Netflix-Data
-![Dashboard](Netflix Analysis.png)
+![Dashboard](NetflixAnalysis.png)
 
 
